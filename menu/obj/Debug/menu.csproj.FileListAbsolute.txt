@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\bin\Debug\menu.exe.config
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\bin\Debug\menu.exe
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\bin\Debug\menu.pdb
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.Form1.resources
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.formcategorias.resources
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.formclientes.resources
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.formproductos.resources
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.formproveedores.resources
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.exe
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.pdb
+C:\Users\pc\Desktop\provi\.NET\Actividad practica 4- ORM enfoque database first\menu\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
